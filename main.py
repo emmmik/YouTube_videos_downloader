@@ -15,5 +15,5 @@ ys = yt.streams.get_highest_resolution()
 
 # Downloading the video
 print('Wait a sec, your video is downloading...')
-ys.download('D:/Useless/Youtube_videos')
+ys.download('D:/Useless/Youtube_videos') # insert your path in here
 print('Done :)')
